@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Assume that the given lengths in feet and inches are integers.
  * 
  * Author: Divash Pokharel
- * Date: 01/25/23
+ * Date: 02/26/23
 */
 
 public class ConvertLength{
