@@ -1,10 +1,12 @@
-Introduction
+Introduction:
+
 The ConvertLength project is a Java program that converts lengths given in feet and inches to centimeters. Length conversion is a common task in 
 many fields, such as engineering, construction, and science. Therefore, having a program that can perform this conversion accurately and quickly 
 is essential. The ConvertLength program takes input values in feet and inches, converts them to centimeters, and outputs the result. The program assumes 
 that the given lengths are integers.
 
-Methodology
+Methodology:
+
 The ConvertLength program is implemented in Java and follows a simple methodology. The program takes input values in feet and inches and converts 
 them to centimeters using the following steps:
 1.	The program prompts the user to enter the length in feet and inches.
@@ -17,7 +19,8 @@ The program uses the Scanner class to read input values from the user. The progr
 by converting the length in feet to inches and adding the length in inches. The program then converts the total length in inches to centimeters using 
 the conversion factor of 1 inch = 2.54 centimeters. The program finally outputs the converted length in centimeters.
 
-Results
+Results:
+
 The ConvertLength program takes input values in feet and inches and converts them to centimeters. The output is the converted length in centimeters. Here 
 is an example of the input and output of the program:
 Enter the length in feet: 5
@@ -25,7 +28,8 @@ Enter the length in inches: 8
 The length in centimeters is: 172.72	
 In this example, the user entered a length of 5 feet and 8 inches, and the program converted it to 172.72 centimeters.
 
-Conclusion
+Conclusion:
+
 The ConvertLength program is a simple Java program that converts lengths given in feet and inches to centimeters. The program follows a straightforward 
 methodology and is easy to use. The program assumes that the given lengths are integers. The program can be used in various fields where length 
 conversion is required. The program can be modified to handle other units of length, such as meters and kilometers. Overall, this project demonstrates 
